@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **consolidating a bunch of knowledge from Le Wagon's Data Science batch #900 bootcamp**
 
-- 🌱 I’m currently working towards my **TensorFlow Professional Certification** and **GCP ML Engineer Cert**
+- 🌱 I’m currently working towards my **TensorFlow Developer Certification** and **GCP ML Engineer Cert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
