@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorcan</h1>
-<h3 align="center">A data scientist looking for roles in Vilnius!</h3>
+<h3 align="center">A data engineer looking for roles in Vilnius!</h3>
 
 - 🔭 I’m currently working on **consolidating a bunch of knowledge from Le Wagon's Data Science batch #900 bootcamp**
 
