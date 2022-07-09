@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Tensorflow Developer Certificate**
 
-- 🌱 I’m currently learning **advanced Tensorflow Keras**
+- 🌱 I’m currently learning **more about Tensorflow Keras**
 
-- 👯 I’m looking to collaborate on **computer vision and reinforcement learning projects!**
+- 👯 I’m looking to collaborate on **computer vision deep learning!**
 
 - 👨‍💻 All of my projects are available on my [repo's](https://github.com/lorcanrae?tab=repositories)
 
-- 💬 Ask me about **Python and ML/DL**
+- 💬 Ask me about **Python and DL with Tensorflow**
 
 - 📫 How to reach me **lorcanrae@outlook.com**
 
