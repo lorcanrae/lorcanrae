@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorcan</h1>
-<h3 align="center">A data scientist from Australia!</h3>
+<h3 align="center">A data scientist looking for roles!</h3>
 
 - 🔭 I’m currently working on **Tensorflow Developer Certificate**
 
