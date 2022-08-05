@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **more about Tensorflow Keras**
 
-- 👯 I’m looking to collaborate on **computer vision deep learning!**
-
 - 👨‍💻 All of my projects are available on my [repo's](https://github.com/lorcanrae?tab=repositories)
-
-- 💬 Ask me about **Python and DL with Tensorflow**
 
 - 📫 How to reach me **lorcanrae@outlook.com**
 
