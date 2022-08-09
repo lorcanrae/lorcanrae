@@ -1,5 +1,5 @@
 ## Hi, I'm Lorcan :rocket:
-### A data engineer/scientist looking for roles in Vilnius
+### A Data Engineer/Data Scientist looking for roles in Vilnius
 
 - 🔭 I’m currently working on **Tensorflow Developer Certificate**
 - 🌱 I’m currently learning **Tableau and more about GCP**
