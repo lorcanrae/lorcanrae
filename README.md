@@ -6,7 +6,7 @@
 - 📫 How to reach me **lorcanrae@outlook.com**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
 
-_Have a look at some examples of my work:_
+### Have a look at some examples of my work:
 - [Spaceship Titanic](https://github.com/lorcanrae/spaceship-titanic) - Binary Classifier using sci-kit learn. Check out the [demo app](https://lorcanrae-spaceship-titanic-web-0--home-w79no8.streamlitapp.com/)
 - [Reinforcement Learning](https://github.com/lorcanrae/rl-900-website) - Teaching an Agent to play Atari Space invaders using a Dueling DQN model with teacher-student learning using TensorFlow
 
