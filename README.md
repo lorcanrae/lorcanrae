@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Lorcan</h1>
-<h3 align="center">A data scientist looking for roles!</h3>
+## Hi, I'm Lorcan :rocket:
+### A data engineer/scientist looking for roles in Vilnius
 
 - 🔭 I’m currently working on **Tensorflow Developer Certificate**
-
-- 🌱 I’m currently learning **more about Tensorflow Keras**
-
-- 👨‍💻 All of my projects are available on my [repo's](https://github.com/lorcanrae?tab=repositories)
-
+- 🌱 I’m currently learning **Tableau and more about GCP**
 - 📫 How to reach me **lorcanrae@outlook.com**
-
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
+
+_Have a look at some examples of my work:_
+- [Spaceship Titanic](https://github.com/lorcanrae/spaceship-titanic) - Binary Classifier using sci-kit learn. Check out the [demo app](https://lorcanrae-spaceship-titanic-web-0--home-w79no8.streamlitapp.com/)
+- [Reinforcement Learning](https://github.com/lorcanrae/rl-900-website) - Teaching an Agent to play Atari Space invaders using a Dueling DQN model with teacher-student learning using TensorFlow
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
