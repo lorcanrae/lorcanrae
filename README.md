@@ -8,7 +8,7 @@
 
 ### Have a look at some examples of my work:
 - [Spaceship Titanic](https://github.com/lorcanrae/spaceship-titanic) - Binary Classifier using sci-kit learn. Check out the [demo app](https://lorcanrae-spaceship-titanic-web-0--home-w79no8.streamlitapp.com/)
-- [Reinforcement Learning](https://github.com/lorcanrae/rl-900-website) - Training an Agent to play Space invaders using a Dueling DQN model using TensorFlow
+- [Reinforcement Learning](https://github.com/lorcanrae/rl-900-website) - Training an Agent to play Space invaders with a Dueling DQN model using TensorFlow
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
