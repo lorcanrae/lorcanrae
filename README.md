@@ -1,5 +1,5 @@
 ## Hi, I'm Lorcan :rocket:
-### A Data Engineer/Data Scientist looking for roles!
+### A Data Analyst | Data Engineer | Data Scientist looking for roles!
 
 - 🔭 I’m currently working on **Tensorflow Developer Certificate**
 - 🌱 I’m currently learning **Tableau and more about GCP**
