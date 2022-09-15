@@ -1,7 +1,7 @@
 ## Hi, I'm Lorcan :rocket:
 ### A Data Analyst | Data Engineer | Data Scientist looking for roles!
 
-- 🔭 I’m currently working on **Tensorflow Developer Certificate**
+- 🔭 I’m currently working on **GCP Professional Cloud Data Engineer Certificate**
 - 🌱 I’m currently learning **Tableau and more about GCP**
 - 📫 How to reach me **lorcanrae@outlook.com**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
