@@ -2,8 +2,8 @@
 ### A Data Analyst | Data Engineer | Data Scientist looking for roles!
 
 - 🔭 I’m currently working on **GCP Professional Cloud Data Engineer Certificate**
-- 🌱 I’m currently learning **Tableau and more about GCP**
-- 📫 How to reach me **lorcanrae [at] outlook.com**
+- 🌱 I’m currently learning **Docker and GCP**
+- 📫 Reach me at **lorcanrae [at] outlook.com**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
 
 ### Have a look at some examples of my work:
