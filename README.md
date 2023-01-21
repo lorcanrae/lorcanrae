@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GCP Professional Cloud Data Engineer Certificate**
 - 🌱 I’m currently learning **Docker and GCP**
-- 📫 Reach me at **lorcanrae [at] outlook.com**
+- 📫 Reach me at **lorcanrae [at] gmail [dot] com**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
 
 ### Have a look at some examples of my work:
