@@ -1,5 +1,5 @@
 ## Hi, I'm Lorcan :rocket:
-### A Data Engineer | Data Scientist looking for roles!
+### A Data Engineer!
 
 - 🔭 I’m currently working on **GCP Professional Cloud Data Engineer Certificate**
 - 🌱 I’m currently learning **Docker and GCP**
