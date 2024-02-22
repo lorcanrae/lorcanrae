@@ -5,11 +5,6 @@
 - 🌱 I’m currently learning **Kubernetes and IaC**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
 
-### Have a look at some examples of my work:
-- [Spaceship Titanic](https://github.com/lorcanrae/spaceship-titanic) - Binary Classifier using sci-kit learn. Check out the [demo app](https://lorcanrae-spaceship-titanic-web-0--home-w79no8.streamlitapp.com/)
-- [A/B Testing](https://github.com/lorcanrae/ab-test-cookie-cats) - Player Retention for Mobile Game: Cookie Cats. Have a look at the [notebook](https://github.com/lorcanrae/ab-test-cookie-cats/blob/master/ab-test-cookie-cats.ipynb) with the EDA and A/B tests.
-- [Reinforcement Learning](https://github.com/lorcanrae/rl-900-website) - Training an Agent to play Space invaders with a Dueling DQN model using TensorFlow
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lorcanrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorcanrae" height="30" width="40" /></a>
