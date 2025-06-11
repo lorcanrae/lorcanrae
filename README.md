@@ -1,8 +1,8 @@
 ## Hi, I'm Lorcan :rocket:
-### A Data Engineer!
+### A GCP Certified Data Engineer!
 
-- 🔭 I’m currently working on **GCP Professional Cloud Data Engineer Certificate**
-- 🌱 I’m currently learning **Rustlang and Terraform**
+- 🔭 I’m currently getting more familiar with **AWS and Azure**
+- 🌱 I’m currently learning **Rust and Terraform**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
 
 <h3 align="left">Connect with me:</h3>
