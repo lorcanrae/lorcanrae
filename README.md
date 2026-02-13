@@ -2,7 +2,7 @@
 ### A GCP Certified Data Engineer!
 
 - 🔭 I’m currently getting more familiar with **AWS and Azure**
-- 🌱 I’m currently learning **Rust and Terraform**
+- 🌱 I’m having fun building things in **Python and Rust**
 - 📄 Know about my experiences on [linkedin](linkedin.com/in/lorcanrae)
 
 <h3 align="left">Connect with me:</h3>
